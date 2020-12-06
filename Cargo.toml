@@ -1,8 +1,10 @@
 [package]
-authors = ["Cheng JIANG <alex_cj96@foxmail.com>"]
-edition = "2018"
-name    = "port-alloc"
-version = "0.1.0"
+authors     = ["Cheng JIANG <alex_cj96@foxmail.com>"]
+description = "port allocator"
+edition     = "2018"
+license     = "MIT"
+name        = "port-alloc"
+version     = "0.1.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
